@@ -61,6 +61,7 @@ hr {
 
 /* Navigation bar */
 nav {
+    width: calc(var(--page-width));
     padding: 1vw 1vw;
     padding-top: 2vh;
 }
@@ -96,8 +97,8 @@ nav {
 }
 
 #nav_logo {
-    height: 5vw;
-    width: 14vw;
+    height: 4em;
+    width: 12em;
     margin-right: 4vw;
 }
 
