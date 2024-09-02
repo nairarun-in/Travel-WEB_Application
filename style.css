@@ -12,6 +12,7 @@
     flex-wrap: wrap;
 }
 
+
 .flex-nowrap{
     flex-wrap: nowrap;
 }
@@ -29,6 +30,7 @@
 }
 .text-uppercase{
     text-transform: uppercase;
+    
 }
 .text-capitalize{
     text-transform: capitalize;
